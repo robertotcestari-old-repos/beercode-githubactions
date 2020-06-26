@@ -36,5 +36,3 @@ jobs:
           host: '104.248.123.108'
           key: ${{ secrets.SSH_PASSWORD }}
           script: 'cd /var/www/githubactions-beercode && sh server_deploy.sh'
-
-
