@@ -30,8 +30,10 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Tios Beto e Icaro
+                    Tios Beto e Icaro - GITHUB ACTIOns
                 </div>
+
+                <img src="https://yt3.ggpht.com/a/AATXAJxjniAVuQ13-nx4W2LehQdqKMCgeaoBhwYlMfAd=s288-c-k-c0xffffffff-no-rj-mo" alt="">
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
